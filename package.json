@@ -1,0 +1,21 @@
+{
+  "name": "gsocbot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Kai Blin <kai.blin@gmail.com>",
+  "description": "GSoC/GCI helper bot, my owner is kblin",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-auth": "^2.1.0",
+    "hubot-diagnostics": "0.0.2",
+    "hubot-factoids": "^1.2.0",
+    "hubot-help": "^0.2.2",
+    "hubot-irc": "^0.2.9",
+    "hubot-rules": "^0.1.2",
+    "hubot-scripts": "^2.17.2",
+    "jobot-brain-file": "^1.0.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
